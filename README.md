@@ -1,5 +1,11 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7324201&assignment_repo_type=AssignmentRepo)
-# Monty Hall Problem Simulation - Ansh Gupta (Project 1)
+# Monty Hall Problem Simulation
+PHYS105 (Introduction to Scientific Computing) Term Project; Monty
+Hall problem simulation and analysis
+
+The template for this assignment was generated via Github Classroom, so the 
+original private project cannot be made public or forked. Here, I reproduce 
+my work to make it public. Final commit on original project was on March 14,
+2022. Published February 19, 2023.
 
 The Monty Hall problem is a puzzle in statistics and
 probability derived from the premise of an old game show (and is
